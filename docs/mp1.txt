@@ -1,0 +1,11 @@
+What is a compiler?
+
+A compiler is a program that reads a program written in one language –the source language and translates it into an equivalent program in another language-the target language. The compiler reports to its user the presence of errors in the source program.
+
+compiler
+program
+language
+source
+errors
+equivalent
+target

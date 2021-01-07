@@ -1,0 +1,15 @@
+Explain briefly about the parts of a compilation.
+
+Analysis and Synthesis are the two parts of compilation. The analysis part breaks up the source program into constituent pieces and creates an intermediate representation of the source program. The synthesis part constructs the desired target program from the intermediate representation.
+
+analysis
+synthesis
+compilation
+intermediate representation
+source program
+target program
+two
+breaks
+constructs
+
+

@@ -1,0 +1,13 @@
+List the properties of LR parser.
+
+1. LR parsers can be constructed to recognize most of the programming languages for which the context free grammar can be written.
+2. The class of grammar that can be parsed by LR parser is a superset of class of grammars that can be parsed using predictive parsers.
+3. LR parsers work using non backtracking shift reduce technique yet it is efficient one.
+
+LR parsers
+parser
+recognize
+programming languages
+context free grammar
+non backtracking
+predictive

@@ -1,0 +1,18 @@
+List the various phases of compiler.
+
+The following are the various phases of a compiler:
+Lexical Analyzer
+Syntax Analyzer
+Semantic Analyzer
+Intermediate code generator
+Code optimizer
+Code generator
+
+Lexical
+Analyzer
+Syntax
+Semantic
+Intermediate
+Code generator
+Code optimizer
+code

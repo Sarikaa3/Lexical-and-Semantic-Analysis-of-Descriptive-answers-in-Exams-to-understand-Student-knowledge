@@ -1,0 +1,9 @@
+What is a symbol table?
+
+A symbol table is a data structure containing a record for each identifier, with fields for the attributes of the identifier. The data structure allows us to find the record for each identifier quickly and to store or retrieve data from that record quickly. Whenever an identifier is detected by a lexical analyzer, it is entered into the symbol table. The attributes of an identifier cannot be determined by the lexical analyzer.
+
+data structure
+record
+identifier
+attributes
+lexical analyzer
