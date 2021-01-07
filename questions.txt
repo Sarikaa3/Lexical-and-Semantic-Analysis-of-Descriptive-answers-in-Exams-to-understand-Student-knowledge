@@ -1,0 +1,5 @@
+1) What is a compiler? [2 marks]
+2) Explain briefly about the parts of a compilation. [2 marks]
+3) What is a symbol table? [2 marks]
+4) List the various phases of compiler. [2 marks]
+5) List the properties of LR parser.[2 marks]
